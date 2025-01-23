@@ -1,0 +1,17 @@
+# Python cache and virtual environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+
+# Streamlit configuration
+.streamlit/
+
+# Environment variables
+.env
+
+# Qdrant temporary data
+data/

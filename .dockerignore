@@ -1,0 +1,12 @@
+# Exclude unnecessary files and directories
+*.pyc
+*.pyo
+*.pyd
+*.log
+__pycache__/
+.env
+*.tar
+*.zip
+.git/
+node_modules/
+venv/
